@@ -2,7 +2,7 @@ require 'test/unit'
 require 'rubygems'
 require 'rack/test'
 require 'shoulda'
-require 'mocha'
+require 'mocha/setup'
 require 'rack/cors'
 require 'debugger'
 
